@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.sx.hu.wall.e.springboot.support.application.SpringApplicationUtilAutoConfiguration,\
+cn.sx.hu.wall.e.springboot.support.log.LogAutoConfiguration,\
+cn.sx.hu.wall.e.springboot.support.cors.CorsAutoConfiguration
