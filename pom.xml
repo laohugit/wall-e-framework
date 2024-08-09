@@ -25,6 +25,7 @@
         <module>wall-e-util</module>
         <module>wall-e-springframework-support</module>
         <module>wall-e-springboot-support</module>
+        <module>wall-e-operation-log</module>
     </modules>
 
     <licenses>
